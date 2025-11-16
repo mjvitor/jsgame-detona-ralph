@@ -1,3 +1,8 @@
+Sobre a aula e testes:
+Utilizei o arquivo do projeto para acompanhar a aula, criei meu próprio arquivo separado depois para praticar e ajustar erros. 
+
+Alterações teste: Mudei a cor das janelas para roxo e diminui o tempo do ralph em cada quadrado, deixando o jogo mais rápido e difícil.
+
 ## Awesome JSGame Detona Ralph
 
 <p align="center">
